@@ -8,6 +8,7 @@ deck = list(itertools.product(range(1,14),['Spade','Heart','Diamond','Club'])
 
 # shuffle the cards
 random.shuffle(deck)
+#explicame el codigo siguiente
 
 # draw five cards
 print("You got:")
